@@ -13,7 +13,7 @@ development: "https://pushpullfork.com"
 
 ---
 
-<img src="/assets/images/krisHeadBanner.jpg" style="float:right; width: 300px" alt="Kris Shaffer headshot in front of Rocky Mountains." />
+<img src="/assets/images/krishead.jpg" style="float:right; width: 240px; padding-left: 18px" alt="Kris Shaffer headshot in front of Rocky Mountains." />
 
 Kris Shaffer, Ph.D. (Yale University, 2011), is an Instructional Technology Specialist and Adjunct Instructor of Computer Science at the [University of Mary Washington](https://academics.umw.edu/dtlt/). He is also an Editor for [*Hybrid Pedagogy Publishing*](http://www.hybrid.pub) and the lead author and editor of [*Open Music Theory*](http://openmusictheory.com) ― an open-source, interactive "text"book for undergraduate music theory courses.
 
