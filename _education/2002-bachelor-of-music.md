@@ -1,6 +1,6 @@
 ---
 
-period: 1998-2002 
+period: 1998–2002 
 institution: Lawrence University
 title: "Bachelor of Music"
 
