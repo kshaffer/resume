@@ -6,4 +6,6 @@ title: "Bachelor of Music"
 
 ---
 
-content 
+*summa cum laude*  
+Major: horn performance  
+Honors thesis: "Transcending Rock Tradition: Form, Text, and Integration in the Music of Dream Theater"
