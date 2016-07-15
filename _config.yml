@@ -1,6 +1,6 @@
 # Site settings
 title: "Kris Shaffer"
-tagline: "Computational Music Theorist. Data Scientist. Author. Editor. Software Developer."
+tagline: "Computational Music Theorist. Data Scientist. Author. Software Developer."
 description: "Kris Shaffer, Ph.D. (Yale University, 2011), is an Instructional Technology Specialist and Adjunct Instructor of Computer Science at the University of Mary Washington. He is also an Editor for Hybrid Pedagogy Publishing and the lead author and editor of Open Music Theory ― an open-source, interactive textbook for undergraduate music theory courses."  
 baseurl: "/resume" # the subpath of your site, e.g. /blog/
 #url: "" # the base hostname & protocol for your site
