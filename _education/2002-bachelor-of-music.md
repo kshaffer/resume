@@ -2,7 +2,7 @@
 
 period: 1998–2002 
 institution: Lawrence University
-title: "Bachelor of Music"
+title: "Bachelor of Music in horn performance (summa cum laude)"
 
 ---
 
