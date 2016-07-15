@@ -1,19 +1,14 @@
 ---
 
 layout: default
-name: Christian Surname
-location: "Somewhere"
-country: Nation
-email: "your.address@email.com"
-twitter: "@meontwitter"
-blog: "https://wordpress.com/"
-linkedin: "http://www.linkedin.com/"
-github: "https://github.com/"
-flickr: "https://www.flickr.com/"
-slideshare: "http://slideshare.net/"
+name: Kris Shaffer
+location: Fredericksburg, Va.
+country: USA
+email: "kris.shaffer@tutanota.de"
+twitter: "@krisshaffer"
+blog: "http://kris.shaffermusic.com/"
+linkedin: "https://www.linkedin.com/in/kris-shaffer-05419a92?trk=hp-identity-name"
+github: "https://github.com/kshaffer"
 
 ---
 
-Create an elegant and customisable resume using Jekyll. Built to be simple to edit, update and modify, this Jekyll based site allows you to run your personal resume in public and for free on GitHub pages. Buy your own web domain and for about the cost of a (fancy) coffee you can display your professional identity on the web. 
-
-Liberate yourself from LinkedIn and other resume services by having your own space. Display what information you want and how you want it. You don't need a business card - get a URL!
