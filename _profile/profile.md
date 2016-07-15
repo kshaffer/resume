@@ -14,7 +14,7 @@ github: "https://github.com/kshaffer"
 
 Kris Shaffer, Ph.D. (Yale University, 2011), is an Instructional Technology Specialist and Adjunct Instructor of Computer Science at the [University of Mary Washington](https://academics.umw.edu/dtlt/). He is also an Editor for [*Hybrid Pedagogy Publishing*](http://www.hybrid.pub) and the lead author and editor of [*Open Music Theory*](http://openmusictheory.com) ― an open-source, interactive "text"book for undergraduate music theory courses.
 
-<img src="/assets/images/krisHeadBanner.jpg" style="float:right" alt="Kris Shaffer headshot in front of Rocky Mountains." />
+<img src="/assets/images/krisHeadBanner.jpg" style="float:right; width: 200px" alt="Kris Shaffer headshot in front of Rocky Mountains." />
 
 Kris is a computational musicologist, digital media specialist, author, and coder. Recently, he has been focusing on developing and extending web platforms for education, particularly in the context of [critical digital pedagogy](http://www.digitalpedagogylab.com/hybridped/critical-digital-pedagogy-definition/), [open educational resources](http://www.digitalpedagogylab.com/hybridped/open-source-scholarship/), and UMW's [Domain of One's Own](http://umwdomains.com) initiative. His latest release is [Hypothes.is Aggregator](http://umwdtlt.com/hypothesis-aggregator-wordpress-plugin/), a WordPress plugin that collects hypothes.is annotations from a user or tag and automatically publishes them to a page on a WordPress site. Kris's digital humanities research focuses on statistical analysis of music and text using computational methods. See the [CorpusMusic GitHub organization](https://github.com/corpusmusic) for current and recent projects.
 
