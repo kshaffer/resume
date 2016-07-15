@@ -1,8 +1,8 @@
 # Site settings
-title: "Christian Surname"
-tagline: "Resume Builder"
-description: "Welcome to the Resume Builder. You can create your own resume by adding a few markdown files, tweaking values in a a config file and changing some CSS"  
-baseurl: "/resume-builder" # the subpath of your site, e.g. /blog/
+title: "Kris Shaffer"
+tagline: "Computational Music Theorist. Data Scientist. Author. Editor. Software Developer."
+description: "Kris Shaffer, Ph.D. (Yale University, 2011), is an Instructional Technology Specialist and Adjunct Instructor of Computer Science at the University of Mary Washington. He is also an Editor for Hybrid Pedagogy Publishing and the lead author and editor of Open Music Theory ― an open-source, interactive textbook for undergraduate music theory courses."  
+baseurl: "/resume" # the subpath of your site, e.g. /blog/
 #url: "" # the base hostname & protocol for your site
 
 # Collections-builder
